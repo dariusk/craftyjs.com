@@ -73,6 +73,10 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 
 <h2>Demos</h2>
 <ul id="demos" class="gridlist">
+	<li><a href="http://hugeen.github.com/Defend-The-Den/"><img src="demos/thumbs/defendtheden.png"/><span>Defend the Den</span></a></li>
+	<li><a href="http://morrisgames.info/"><img src="demos/thumbs/code-commander.png"/><span>Code Commander</span></a></li>
+	<li><a href="http://planktongames.com/wordy/"><img src="demos/thumbs/wordy.png"/><span>Wordy</span></a></li>
+	<li><a href="http://lapiroff.name/orderlies/Q/"><img src="demos/thumbs/Q.png"/><span>Q</span></a></li>
 	<li><a href="http://webtop.co:8056"><img src="demos/thumbs/blocko.png"/><span>Blockoworld</span></a></li>
 	<li><a href="http://webtop.co/gta"><img src="demos/thumbs/gta.png"/><span>Driving</span></a></li>
 	<li><a href="#fruitassassin"><img src="demos/thumbs/fruit.png"/><span>Fruit Assassin</span></a></li>
