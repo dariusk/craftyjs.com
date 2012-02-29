@@ -74,6 +74,7 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 <h2>Demos</h2>
 <ul id="demos" class="gridlist">
 	<li><a href="http://hugeen.github.com/Defend-The-Den/"><img src="demos/thumbs/defendtheden.png"/><span>Defend the Den</span></a></li>
+		<li><a href="http://blackscorp.github.com/cron/"><img src="demos/thumbs/cron.png"/><span>Cron</span></a></li>
 	<li><a href="http://morrisgames.info/"><img src="demos/thumbs/code-commander.png"/><span>Code Commander</span></a></li>
 	<li><a href="http://planktongames.com/wordy/"><img src="demos/thumbs/wordy.png"/><span>Wordy</span></a></li>
 	<li><a href="http://lapiroff.name/orderlies/Q/"><img src="demos/thumbs/Q.png"/><span>Q</span></a></li>
