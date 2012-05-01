@@ -1,8 +1,8 @@
 <?php
 if(isset($_GET['c'])) {
-	$file = "release/0.4.5/crafty-min.js";
+	$file = "release/0.4.8/crafty-min.js";
 } else {
-	$file = "release/0.4.5/crafty.js";
+	$file = "release/0.4.8/crafty.js";
 }
 $count = file_get_contents("counter.txt");
 file_put_contents("counter.txt",$count+1);
