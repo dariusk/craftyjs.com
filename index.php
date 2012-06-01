@@ -6,14 +6,14 @@ include 'header.php';
 <div id="grid">
 <div class="box">
 
-<button class="download" id="download"><h2>Download v0.4.8</h2></button> 
+<button class="download" id="download"><h2>Download v0.4.9</h2></button> 
 <p> 
 	<label><input type="radio" id="minified" name="type" checked="checked"/><var>88.4</var>KB Minified &amp; Gzipped</label><br/> 
-	<a href="http://craftyjs.com/release/0.4.8/crafty-min.js"><small>permalink</small></a> 
+	<a href="http://craftyjs.com/release/0.4.9/crafty-min.js"><small>permalink</small></a> 
 </p> 
 <p> 
 	<label><input type="radio" name="type" /><var>223</var>KB Uncompressed</label><br />	
-	<a href="http://craftyjs.com/release/0.4.8/crafty.js"><small>permalink</small></a> 
+	<a href="http://craftyjs.com/release/0.4.9/crafty.js"><small>permalink</small></a> 
 </p> 
 </div>
 
